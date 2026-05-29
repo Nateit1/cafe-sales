@@ -88,7 +88,8 @@ All queries written and executed in SQL Server Management Studio on the live Caf
 ### ORDER BY — Single Sort DESC
 > Highest quantity orders first
 
-<img src="screenshots/q1a-single-sort-desc.png" width="100%" alt="Single sort DESC">
+<img width="1278" height="945" alt="image" src="https://github.com/user-attachments/assets/6492341d-9e3d-4a9d-bbd3-8378b39b83db" />
+
 
 ### ORDER BY — Double Sort DESC
 > Highest quantity + month, both descending
